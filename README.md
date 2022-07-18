@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @01010101Basics
 - 👀 I’m interested in hunting, fishing and learning.
-- 🌱 I’m currently learning AWS Solutions Architect 
+- 🌱 I’m currently learning AWS Solutions Architect / CI/CD with Jenkins / Terraform (IaaS) / Docker 
 - 👀 I like to teach myself new languages, I tought my self PHP, and I am now moving on to Python.
 
 <!---
